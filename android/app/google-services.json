@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938632900497",
+    "firebase_url": "https://justified-2020.firebaseio.com",
+    "project_id": "justified-2020",
+    "storage_bucket": "justified-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938632900497:android:731d46ad9af1eb58cdb430",
+        "android_client_info": {
+          "package_name": "com.example.justified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938632900497-p3vjhgomgq91dudgtke5d0jmp582fhgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9-S07DnQvOS5dZFeXOBrCFwgQbvvwXy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938632900497-p3vjhgomgq91dudgtke5d0jmp582fhgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
